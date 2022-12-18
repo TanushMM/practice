@@ -1,1 +1,3 @@
 second commit
+
+some changes has been made to indicate third commit
